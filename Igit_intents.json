@@ -418,7 +418,10 @@
                                 "Where is MCA HOD",
                                 "cse hod",
                                 "name of cse hod",
-                                "cse faculty"
+                                "cse faculty",
+                                "Dr. S Mishra",
+                                "S Mishra",
+                                "Dr S Misra"
                         ],
                         "responses": [
                                 "Dr. S. Mishra is the present CSEA hod , you can find it in   https://igitsarang.ac.in/faculties/cs"
