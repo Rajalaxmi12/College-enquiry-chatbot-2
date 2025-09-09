@@ -24,7 +24,7 @@ for intent in intents['intents']:
         w = nltk.word_tokenize(pattern)
         #print("TOKEN IS :{}".format(w))
         words.extend(w)
-        #({'hey','you'},'greeting')
+      
         documents.append((w,intent['tag']))
         #add to class list
         if intent['tag'] not in classes:
@@ -89,3 +89,4 @@ mfit = model.fit(X,Y, epochs=200, batch_size=5, verbose=1)
 model.save('chatbot_model.h5',mfit)
 
 print('1st Chatbot model')
+
