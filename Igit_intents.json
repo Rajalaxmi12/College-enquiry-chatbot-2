@@ -17,7 +17,8 @@
                         "responses": [
                                 "Hello!",
                                 "Good to see you again!",
-                                "Hi there, how can I help?"
+                                "Hi there, how can I help?",
+                                "Greetings from my side"
                         ],
                         "context_set": ""
                 },
@@ -41,7 +42,8 @@
                                 "Sad to see you go :(",
                                 "Talk to you later",
                                 "Goodbye!",
-                                "Come back soon"
+                                "Come back soon",
+                                "Thank you for the interaction"
                         ],
                         "context_set": ""
                 },
@@ -818,4 +820,5 @@
                 }
         ]
 }
+
 
